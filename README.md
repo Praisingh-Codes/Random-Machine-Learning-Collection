@@ -2,7 +2,7 @@
 
 A curated collection of Machine Learning & Computer Vision projects covering prediction, clustering, classification, image recognition, gesture detection, and food calorie estimation.
 
-This repository contains 5 end-to-end Machine Learning/CV projects, each structured with datasets, models, logs, Jupyter notebooks, and interactive Gradio apps.
+This repository contains 5 end-to-end Machine Learning/Computer Vision projects, each structured with datasets, models, logs, Jupyter notebooks, and interactive Gradio apps.
 
 #### Projects Included
 
